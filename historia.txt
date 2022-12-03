@@ -4,6 +4,7 @@ Tengo 22 años y naci en Bolivia
 
 master1
 
-master2
-
 Mañana nos enfocaremos en su vida laboral.
+
+exp1
+
